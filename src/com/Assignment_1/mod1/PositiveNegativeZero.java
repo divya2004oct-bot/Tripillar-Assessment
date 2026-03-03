@@ -1,4 +1,4 @@
-package mod1;
+package com.Assignment_1.mod1;
 
 import java.util.Scanner;
 public class PositiveNegativeZero {

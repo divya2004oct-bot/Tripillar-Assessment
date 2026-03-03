@@ -1,4 +1,4 @@
-package mod1;
+package com.Assignment_1.mod1;
 
 public class SumOfEvenNumbers {
     public static void main(String[] args) {

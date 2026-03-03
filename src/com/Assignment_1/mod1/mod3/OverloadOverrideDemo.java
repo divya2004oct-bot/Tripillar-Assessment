@@ -1,4 +1,4 @@
-package mod3;
+package com.Assignment_1.mod1.mod3;
 
 class Calculator {
     int multiply(int a, int b) {

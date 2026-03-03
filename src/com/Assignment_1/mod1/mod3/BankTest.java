@@ -1,4 +1,4 @@
-package mod3;
+package com.Assignment_1.mod1.mod3;
 
 class BankAccount {
     private String accountNumber;
