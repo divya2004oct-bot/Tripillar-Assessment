@@ -1,4 +1,4 @@
-package com.Assignment_1.mod1.mod2;
+package com.Assignment_1.mod2;
 
 import java.util.Scanner;
 public class FactorialRecursion {
